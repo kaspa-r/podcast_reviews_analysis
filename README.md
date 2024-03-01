@@ -1,5 +1,3 @@
-# karutka-DA.1.5
-
 # Podcast Reviews Analysis
 
 ## Foreground
